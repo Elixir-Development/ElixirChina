@@ -1,13 +1,11 @@
 # ElixirChina
 ElixirChina Community
 
+
 ## 依赖
-
-
-## 开发环境首次运行
-
-
-## 开发环境
+1. 
+2. 
+3. 
 
 
 ## Docker 环境运行
@@ -16,7 +14,9 @@ ElixirChina Community
 ```
 
 ## 项目结构说明
-
+* 
+* 
+* 
 
 ## 代码贡献
 * 请首先查阅TODO列表
