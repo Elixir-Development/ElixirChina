@@ -1,3 +1,8 @@
+# ElixirChina
+ElixirChina 社区
+
+# Document
+[English](README.md) | 中文
 
 
 ## 依赖
